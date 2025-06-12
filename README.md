@@ -33,7 +33,7 @@ This Power BI project performs **data cleaning** and **exploratory data analysis
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./Screenshot 2025-06-12 213357.png)
+![Dashboard Screenshot](./Screenshot%2025-06-12-213357.png)
 
 ## How to Use
 1. Open `Task2.pbix` in Power BI Desktop.
