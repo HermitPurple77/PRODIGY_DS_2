@@ -51,7 +51,7 @@ Feel free to connect with me on [LinkedIn](www.linkedin.com/in/srinidhi-s-4a4285
 ## 📬 Contact
 
 📧 Email: ssrinidhi1501@gmail.com 
-🔗 LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/srinidhi-s-4a4285288)  
+🔗 LinkedIn: (www.linkedin.com/in/srinidhi-s-4a4285288)  
 
 ---
 
